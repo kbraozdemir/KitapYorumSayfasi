@@ -1,0 +1,18 @@
+body{
+    background-color: blanchedalmond;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    list-style-position: inside;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+h3{
+    color: darkcyan;
+}
+
+p, li{
+    color:cadetblue;
+}
